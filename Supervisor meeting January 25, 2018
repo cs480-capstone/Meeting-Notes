@@ -1,0 +1,31 @@
+Supervisor meeting January 25, 2018
+
+Wayne - finished the code for the map and wrote it on angular 1 - Szilard asks how difficult it is to port it to angular 2 - should not be too difficult - a few days to fix the code - Szilard wants an email from Wayne on monday saying that he fixed the code - also wants to make it integrated to the app
+
+Github
+
+Hermann - wrote angular code to access data from - cannot access the database - Luke can
+
+Luke - working on PHP just have to change the variables to the variables that the angular code works, want to work on
+
+Eric - working on scripting but have problems working with 
+
+Bijan - finished tree objects and tree factory - waiting on data collection from PHP and Hermann's angular, working on logic behind owning trees and everything that goes with that 
+
+database will read the excel sheet once to populate the database 
+
+Nick Rhodes - ask him if he knows why we cannot access the database in anything but Windows
+
+Hermann and Luke have most critical parts of the project right now and need to get done
+
+Graham saw the app for the first time - wasn't a fan of how the buttons were working and has more types of trees that he wants data collected on 
+
+for the final Szilard wants the documentation for the project - if done correctly will be easy, otherwise it will be difficult to write it all at the end 
+
+by February 7th need a working demo of the app - does not have to be finished 
+
+Presentation strucuter is the same as the fall presentation - state what is the problem, main challenges faced, exact tools with what you were planning on using - modules and how you split the work - code snippits to show - demo - updated schedule - the parts that are missing - conclusion - should be something like its running these parts are done and these parts are missing - presentation by next saturday or sunday, monday by the earliest 
+
+for the presentation - need a screen caster for the demo on iphone while someone else mimics it on the tablet - tell the problems, do not hide things because someone might know what to do about it or how to fix it 
+
+20 to 25 slides - 1 slide for technical - 1 slide for each - demo for the rest 
